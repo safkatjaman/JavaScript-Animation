@@ -1,0 +1,19 @@
+#container {
+      position: absolute;
+      left: 30px;
+      top: 30px;
+      height: 900px;
+      width: 900px;
+      border: 10px double rgb(0, 0, 0);
+      border-radius: 10px;
+      background-color: rgb(202, 241, 128);
+}
+
+.box {
+      float: left;
+      width: 80px;
+      height: 80px;
+      margin: 10px; 
+      border-radius: 10px;
+      background: #FFF url('http://placekitten.com/g/100/100/') no-repeat;
+}
